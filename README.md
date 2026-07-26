@@ -13,7 +13,7 @@ Passionate about building scalable web applications and continuously learning mo
 - 💻 MERN Stack Developer
 - 🌱 Currently learning Advanced Node.js & React
 - 🚀 Building Full Stack Projects
-- 📫 Reach me at: your_email@gmail.com
+- 📫 Reach me at: sandeepallu2004@gmail.com@gmail.com
 - 📍 Visakhapatnam, Andhra Pradesh# 🚀 Tech Stack
 
 ### Frontend
@@ -69,8 +69,3 @@ https://github.com/AlluSandeep
 LinkedIn
 
 (www.linkedin.com/in/sandeep-allu-0961b7246)
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlluSandeep&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlluSandeep&layout=compact&theme=tokyonight)![](https://komarev.com/ghpvc/?username=AlluSandeep&color=blue)
