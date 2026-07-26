@@ -41,7 +41,7 @@ Passionate about building scalable web applications and continuously learning mo
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-0078D7?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Test Case Design](https://img.shields.io/badge/Test_Case_Design-6A5ACD?style=for-the-badge)
+![TestCase Design](https://img.shields.io/badge/Test_Case_Design-6A5ACD?style=for-the-badge)
 ![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-DC3545?style=for-the-badge)
 ![UI Validation](https://img.shields.io/badge/UI_Validation-20C997?style=for-the-badge)
 
