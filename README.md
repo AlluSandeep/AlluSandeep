@@ -13,7 +13,7 @@ Passionate about building scalable web applications and continuously learning mo
 - 💻 MERN Stack Developer
 - 🌱 Currently learning Advanced Node.js & React
 - 🚀 Building Full Stack Projects
-- 📫 Reach me at: sandeepallu2004@gmail.com@gmail.com
+- 📫 Reach me at: sandeepallu2004@gmail.com
 - 📍 Visakhapatnam, Andhra Pradesh# 🚀 Tech Stack
 
 ## 🛠️ Tech Stack
